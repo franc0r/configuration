@@ -1,0 +1,12 @@
+- git:
+    local-name: scraw
+    uri: https://gitlab.com/dennis-hamester/scraw.git
+    #version: actionlib-release-release-lunar-actionlib-1.11.12-0
+- git:
+    local-name: scrawpp
+    uri: https://gitlab.com/dennis-hamester/scrawpp.git
+    #version: actionlib-release-release-lunar-actionlib-1.11.12-0
+- git:
+    local-name: scd
+    uri: https://gitlab.com/dennis-hamester/scd.git
+    #version: actionlib-release-release-lunar-actionlib-1.11.12-0
